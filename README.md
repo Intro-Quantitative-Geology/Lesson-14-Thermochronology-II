@@ -1,4 +1,4 @@
-# Lesson 13: Basics of thermochronology
+# Lesson 14: Basics of thermochronology II
 This week we will be introduced to the geochronological dating method called thermochronology.
 Thermochronology can be used to determine the time since rocks at the surface were at a given temperature in the Earth, and combines several of the equations we have already seen earlier in the course.
 This will be the topic of the final two weeks of the course, as well as the final project paper you will write.
