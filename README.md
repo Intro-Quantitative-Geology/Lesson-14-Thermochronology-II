@@ -4,7 +4,7 @@ These results will be presented in detail in your [final report for the course](
 
 ## Lesson overview
 1. [Background material on thermochronology from Lesson 13](https://github.com/Intro-Quantitative-Geology/Lesson-13-Thermochronology-I)
-2. [Exercise 14: Quantitative thermochronology, part II]()
+2. [Exercise 14: Quantitative thermochronology, part II](https://classroom.github.com/assignment-invitations/ff1c3f3b548989b15b3c41a2e249897b)
 3. [Hints for Exercise 14](Lesson/hints.md)
 
 ## Resources
