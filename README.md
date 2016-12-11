@@ -1,22 +1,15 @@
 # Lesson 14: Basics of thermochronology II
-This week we will be introduced to the geochronological dating method called thermochronology.
-Thermochronology can be used to determine the time since rocks at the surface were at a given temperature in the Earth, and combines several of the equations we have already seen earlier in the course.
-This will be the topic of the final two weeks of the course, as well as the final project paper you will write.
+In part two of the [exercises for the final two weeks of the course](https://github.com/Intro-Quantitative-Geology/Lesson-13-Thermochronology-I/blob/master/Lesson/Lesson-13.4-Intro-to-thermochronology-overview.pdf) we will combine the thermochronometer age prediction code used last week with an age dataset from the Bhutan Himalaya to quantify the long-term rates of erosion recorded in the thermochronometer data.
+These results will be presented in detail in your [final report for the course](https://github.com/Intro-Quantitative-Geology/Lesson-13-Thermochronology-I/blob/master/Lesson/Final-report.md).
 
 ## Lesson overview
-
-1. [Lecture slides on the Basics of Thermochronology, part I](Lesson/Lesson-13.1-Basic-concepts-of-thermochronology.pdf)
-2. [Lecture slides on the Basics of Thermochronology, part II\*](Lesson/Lesson-13.2-Low-temperature-thermochronology.pdf)
-3. [Lecture slides on the Basics of Thermochronology, part III\*](Lesson/Lesson-13.3-Quantifying-erosion-with-thermochronology.pdf)
-4. [Overview slides for Exercises 13 and 14](Lesson/Lesson-13.4-Intro-to-thermochronology-overview.pdf)
-5. [Description of final project report](Lesson/Final-report.md)
-6. [Exercise 13: Quantitative thermochronology, part I](https://classroom.github.com/assignment-invitations/b1b28d52eb9cc5daef0a15519fbee66a)
-7. [Hints for Exercise 13](Lesson/hints.md)
-
-\* *We will not go over these slides in class, but it is recommended that your look them over as they may be helpful in writing the final project paper*.
+1. [Background material on thermochronology from Lesson 13](https://github.com/Intro-Quantitative-Geology/Lesson-13-Thermochronology-I)
+2. [Exercise 14: Quantitative thermochronology, part II]()
+3. [Hints for Exercise 14](Lesson/hints.md)
 
 ## Resources
 - Past lesson materials
+  - [Lesson 13: Basics of thermochronology I](https://github.com/Intro-Quantitative-Geology/Lesson-13-Thermochronology-I)
   - [Lesson 12: Viscous flows](https://github.com/Intro-Quantitative-Geology/Lesson-12-Viscous-flows)
   - [Lesson 11: Advection of Earth's surface](https://github.com/Intro-Quantitative-Geology/Lesson-11-Advection-of-Earths-surface)
   - [Lesson 10: Natural diffusion](https://github.com/Intro-Quantitative-Geology/Lesson-10-Natural-diffusion)
